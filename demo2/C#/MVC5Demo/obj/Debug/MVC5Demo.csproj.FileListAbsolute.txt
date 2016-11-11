@@ -1,0 +1,94 @@
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll.config
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.pdb
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Forms.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Owin.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\WebGrease.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Forms.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.xml
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csprojResolveAssemblyReference.cache
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.dll
+c:\users\housem\documents\visual studio 2013\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.pdb
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\MVC5Demo.dll.config
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\MVC5Demo.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\MVC5Demo.pdb
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Antlr3.Runtime.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\EntityFramework.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\EntityFramework.SqlServer.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Forms.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Newtonsoft.Json.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Owin.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.Mvc.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.Optimization.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.Razor.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.Razor.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\WebGrease.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\EntityFramework.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\EntityFramework.SqlServer.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Forms.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\Newtonsoft.Json.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.Mvc.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.Razor.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\bin\System.Web.WebPages.Razor.xml
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\obj\Debug\MVC5Demo.csprojResolveAssemblyReference.cache
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\obj\Debug\MVC5Demo.dll
+C:\Nida\Off Board\POC Activity Oct-16\Test Applications\demo2\C#\MVC5Demo\obj\Debug\MVC5Demo.pdb
